@@ -15,7 +15,7 @@ After conducting the Root-cause, I finally did other supporting analysis to aid 
 
 After using #Tableau, I began to explore #Python pandas on this same project, my aim is to see if we can build a machine learning model to predict how much a donor will donate based on other qualitative features of a potential Donor but I'm not done with that.
 
-However, my Tableau report can be found in this proeject
+However, my Tableau report can be found in this project
 
 It's not first about the Aesthetics but the Valuable insight and action points for the Organization..
 
